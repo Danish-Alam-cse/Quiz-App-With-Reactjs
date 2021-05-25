@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+
+            "question":"the capital of india?",
+            "choices":["patna","delhi","hyedrabad","kolkata"],
+            "answer":"delhi"
+        },
+        {
+
+            "question":"the capital of pakistan?",
+            "choices":["lahore","jhelum","islamabad","karachi"],
+            "answer":"islamabad"
+        },
+        {
+
+            "question":"the capital of bangladesh?",
+            "choices":["patna","delhi","hyedrabad","dhaka"],
+            "answer":"dhaka"
+        },
+        {
+
+            "question":"the capital of Sri lanka?",
+            "choices":["patna","delhi","colombo","kolkata"],
+            "answer":"colombo"
+        },
+        {
+
+            "question":"the capital of saudi arabia?",
+            "choices":["patna","riyad","hyedrabad","kolkata"],
+            "answer":"riyad"
+        }
+    ]
+}
